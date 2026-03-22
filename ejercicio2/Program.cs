@@ -85,3 +85,5 @@ class Program
         config.MostrarConfig();
     }
 }
+
+// Ejercicio 2 - revisión final
